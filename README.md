@@ -3,7 +3,7 @@
 
 
 Hello Visitors! To view live website please click this link: 
-       https://xynthiawan.github.io/UConn-Site/
+       https://xynthiawan.github.io/UConn-Website/
 
 # Sneak Peak
 
